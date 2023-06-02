@@ -13,4 +13,4 @@ Vamos supor que você precisa fazer esse processo muitas vezes , podemos simples
 
 #python #empresas #automacao 
 
-Link em vídeo explicando ::: 
+Link em vídeo explicando :::  https://www.linkedin.com/posts/arthur-claro-dev_python-empresas-automacao-activity-7070400718431563776-WFTV?utm_source=share&utm_medium=member_desktop
